@@ -1,2 +1,4 @@
-# warsztat
-warsztat z html - tniemy stronę
+# WARSZTAT HTML
+
+Udział w warsztacie cięcia layoutów z wykorzystaniem
+technologii html, Gulp, SASS, LESS.
